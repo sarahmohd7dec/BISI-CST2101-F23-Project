@@ -1,9 +1,9 @@
 # BISI-CST2101-F23-Project
 		We are analyzing different aspects of Diabetes in the Pima tribe by doing Exploratory Data Analysis.
 		We are also doing Model Development by splitting the data and trying to achieve high accuracy on the training data
-  but also to generalize and perform well on test data. Therefore, the focus is on creating a model 
-  that can capture the underlying patterns and relationships in the data, rather than simply memorizing 
-  the training data.We are also Comparing the model that achieves higher accuracy and also the model with better confusion matrix
+                but also to generalize and perform well on test data. Therefore, the focus is on creating a model 
+                that can capture the underlying patterns and relationships in the data, rather than simply memorizing 
+                the training data.We are also Comparing the model that achieves higher accuracy and also the model with better confusion matrix
 		
 A few years ago research was done on a tribe in America which is called the Pima tribe (also known as the Pima Indians). 
 In this tribe, it was found that the ladies are prone to diabetes very early.
